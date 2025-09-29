@@ -16,5 +16,5 @@ This repository is including: Assets (graphs), scripts, respective lab manual an
 
 ### Lab manual and lab report 
 - [Lab Manual](Lab_man-Report/Manual_Analytical-Lab1.docx) (prepared by Professor Nidal Kamel)
-- [Lab report](Lab_man-Report/Report_Analytical_lab_1.pdf) (produced by me, was originally written in markdown)
+- [Lab report](Lab_man-Report/Report_Analytical_lab_1.pdf) - I can say that this is the documentation of this reporsitory
 
